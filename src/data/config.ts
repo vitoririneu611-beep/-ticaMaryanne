@@ -45,17 +45,18 @@ export const STORE_CONFIG = {
   },
 
   images: {
-    logoOriginal: '/public/assets/aistudio/46dd94e2-7b34-4dae-b2a8-d3018f23dc39_b4657efc.jpg',
-    logoCrop: '/public/assets/aistudio/2c1fb1e2-9fe6-415a-9bee-c5c6ecbdfa09_fbdd96ff.jpg',
+    logoOriginal: '/assets/aistudio/46dd94e2-7b34-4dae-b2a8-d3018f23dc39_b4657efc.jpg',
+    logoCrop: '/assets/aistudio/2c1fb1e2-9fe6-415a-9bee-c5c6ecbdfa09_fbdd96ff.jpg',
     // Fotos reais do local físico em Cafelândia
-    realFacade: '/public/assets/aistudio/OTICAMARYANNEFOTO3_eb49f0e2.webp',
-    realInteriorMain: '/public/assets/aistudio/OTICAMARYANNEFOTO1_914681c7.webp',
-    realWatchJewelry: '/public/assets/aistudio/OTICAMARYANNEFOTO2_01b66176.webp',
-    // Imagens de catálogo e estúdio
-    heroEyewear: '/src/assets/images/hero_eyewear_frames_1792683917663.jpg',
-    prescriptionFrames: '/src/assets/images/prescription_frames_1792683933253.jpg',
-    sunglasses: '/src/assets/images/sunglasses_models_1792683945719.jpg',
-    lenses: '/src/assets/images/ophthalmic_lenses_1792683946228.jpg',
+    realFacade: '/assets/aistudio/OTICAMARYANNEFOTO3_eb49f0e2.webp',
+    realInteriorMain: '/assets/aistudio/OTICAMARYANNEFOTO1_914681c7.webp',
+    realWatchJewelry: '/assets/aistudio/OTICAMARYANNEFOTO2_01b66176.webp',
+    // Imagens de catálogo e estúdio (servidas a partir de /public/assets/images/)
+    heroEyewear: '/assets/images/hero_eyewear_frames_1792683917663.jpg',
+    prescriptionFrames: '/assets/images/prescription_frames_1792683933253.jpg',
+    sunglasses: '/assets/images/sunglasses_models_1792683945719.jpg',
+    lenses: '/assets/images/ophthalmic_lenses_1792683946228.jpg',
+    storeInterior: '/assets/images/optical_store_interior_1792683946559.jpg',
   },
 };
 
