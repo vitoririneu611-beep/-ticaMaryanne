@@ -1,0 +1,6 @@
+{
+  "name": "Ótica e Relojoaria Maryanne",
+  "description": "Site oficial da Ótica e Relojoaria Maryanne em Cafelândia, Paraná. Tradição desde 1997 em óculos de grau, solares, infantil, armações, relógios, alianças, pratas, folheados e serviços de reparos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
