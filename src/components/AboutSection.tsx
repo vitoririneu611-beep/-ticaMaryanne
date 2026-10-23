@@ -64,7 +64,7 @@ export const AboutSection: React.FC = () => {
                   <span className="font-serif-display text-xl font-bold">1997</span>
                 </div>
                 <p className="text-xs text-[#52525b]">
-                  Início da trajetória em artigos ópticos e relógios em setembro de 1997.
+                  Início da nossa história em artigos ópticos e relógios em setembro de 1997.
                 </p>
               </div>
 
@@ -74,7 +74,7 @@ export const AboutSection: React.FC = () => {
                   <span className="font-serif-display text-xl font-bold">1999</span>
                 </div>
                 <p className="text-xs text-[#52525b]">
-                  Inauguração da loja física própria no Centro de Cafelândia.
+                  Inauguração da nossa loja física no Centro de Cafelândia.
                 </p>
               </div>
             </div>
@@ -84,13 +84,13 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-7 space-y-6 lg:pl-6">
             <div className="prose prose-stone text-[#3f3f46] font-sans-body leading-relaxed space-y-4 text-base sm:text-lg">
               <p>
-                A <strong className="text-[#09090b]">Ótica e Relojoaria Maryanne</strong> tem uma trajetória ligada à história de Cafelândia. Segundo registros publicados em 2022, sua história começou em setembro de 1997 e a loja física foi inaugurada na cidade em 1999.
+                A história da <strong className="text-[#09090b]">Ótica e Relojoaria Maryanne</strong> faz parte da própria história de Cafelândia. Nossos primeiros passos começaram em <strong>setembro de 1997</strong> e, em <strong>1999</strong>, inauguramos com muito orgulho nossa loja física própria no Centro da nossa cidade.
               </p>
               <p>
-                Ao longo dessa trajetória, a empresa destacou a busca por qualidade, precisão, transparência no atendimento e aperfeiçoamento dos serviços, mantendo o compromisso de oferecer uma experiência de compra atenciosa aos seus clientes.
+                Ao longo de mais de 25 anos de dedicação diária, construímos nossa trajetória com base naquilo que consideramos essencial: qualidade rigorosa, máxima precisão óptica, transparência e um atendimento acolhedor, próximo e dedicado a cada cliente e família da nossa comunidade.
               </p>
               <p className="text-sm text-[#52525b]">
-                Com setor completo de óculos de grau, óculos solares, linha infantil, relógios, alianças, pratas 925, folheados e bancada de reparos, a Maryanne consolidou o lema que os clientes reconhecem: <em>você conhece, você confia</em>.
+                Hoje, você encontra aqui uma linha completa de armações de grau, óculos solares, óculos infantis, relógios de marcas renomadas, alianças para marcar suas maiores celebrações, pratas 925, folheados e nossa assistência especializada em reparos. É com essa certeza e carinho que mantemos vivo o lema que você já conhece e no qual sempre confia: <em className="text-[#09090b] font-serif-display not-italic font-bold">“Você conhece, você confia.”</em>
               </p>
             </div>
 

@@ -62,7 +62,7 @@ export const Hero: React.FC = () => {
 
             {/* Description */}
             <p className="font-sans-body text-base sm:text-lg text-[#3f3f46] leading-relaxed max-w-2xl font-normal">
-              Há anos fazendo parte da história de Cafelândia, a <strong className="text-[#09090b] font-semibold">Ótica e Relojoaria Maryanne</strong> valoriza a qualidade, a confiança e o atendimento próximo para você encontrar armações, óculos solares e infantis, relógios, alianças, pratas, folheados e serviços de reparos.
+              Há mais de 25 anos fazendo parte da história de Cafelândia, nós, da <strong className="text-[#09090b] font-semibold">Ótica e Relojoaria Maryanne</strong>, cuidamos da sua visão e do seu estilo com dedicação, máxima confiança e atendimento próximo. Aqui você encontra armações de grau, óculos solares e infantis, relógios de grandes marcas, alianças, pratas 925, folheados e serviços especializados de reparos.
             </p>
 
             {/* Slogan Card: Modern Black & Vibrant Blue with Eye Symbol */}
